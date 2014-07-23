@@ -1,4 +1,4 @@
-evr_example
+archive_download
 ===========
 
 Simple example usage of the tritium command line driver.
