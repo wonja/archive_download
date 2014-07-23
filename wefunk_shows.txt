@@ -1,0 +1,7 @@
+url = "http://www.wefunkradio.com/shows/450"
+url = "http://www.wefunkradio.com/shows/500"
+url = "http://www.wefunkradio.com/shows/550"
+url = "http://www.wefunkradio.com/shows/600"
+url = "http://www.wefunkradio.com/shows/650"
+url = "http://www.wefunkradio.com/shows/700"
+url = "http://www.wefunkradio.com/shows/750"
